@@ -1,6 +1,4 @@
-Below is **your own rewritten `README.md`**, in the **same structure and tone** as the one you uploaded, but fully updated to match **your specific cleaned code** and the **issues listed in your PDF** (the issues table you generated) and **your reflections**.
 
-I used only the issues shown in your PDF and the fixes present in your cleaned code.
 
 ---
 
@@ -111,4 +109,3 @@ Overall, the cleaned script is safer, easier to understand, and more maintainabl
 
 ---
 
-If you want, I can also **rewrite the cleaned code file header**, generate a **diagram**, or restructure your repo for submission.
